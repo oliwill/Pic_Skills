@@ -15,3 +15,15 @@ Use $baozi-watercolor-elements to create a consistent watercolor illustration as
 ```
 
 详细规则见 [`skills/baozi-watercolor-elements/SKILL.md`](skills/baozi-watercolor-elements/SKILL.md)。
+
+### make-paper-text-sticker
+
+根据精确文案生成暖白纸张质感、黑色印刷文字、圆角无尾巴轮廓的透明 PNG 贴纸，并强制逐字核对文案。
+
+调用示例：
+
+```text
+Use $make-paper-text-sticker to create a transparent rounded paper sticker from my exact text.
+```
+
+详细规则见 [`skills/make-paper-text-sticker/SKILL.md`](skills/make-paper-text-sticker/SKILL.md)。
