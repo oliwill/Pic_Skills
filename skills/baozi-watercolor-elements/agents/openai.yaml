@@ -1,0 +1,4 @@
+interface:
+  display_name: "包子水彩元素"
+  short_description: "生成统一的日式手绘水彩角色、物件、场景及网站插画元素"
+  default_prompt: "Use $baozi-watercolor-elements to create a consistent watercolor illustration asset for baozi.space."
