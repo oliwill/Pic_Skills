@@ -1,0 +1,4 @@
+interface:
+  display_name: "纸张文字贴纸"
+  short_description: "按参考纸张质感生成圆角无尾巴透明文字贴纸"
+  default_prompt: "Use $make-paper-text-sticker to create a transparent rounded paper sticker from my exact text."
